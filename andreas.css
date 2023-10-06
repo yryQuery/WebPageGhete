@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 213, 255);
+}
+h1 {
+/* color: white; */
+text-align: center;
+border: 2px solid tomato;
+background-color: yellow;
+padding: 10px;
+/* margin: 5px; */
+width: 500px;
+border-radius: 30px;
+}
+p {
+    front-family: verdana;
+    font-size: 20px;
+    border: 2px solid rgb(76,38,165);
+}
+h3 {
+    color:rgb(205, 50, 50);
+}
+
+.imagini {
+    width : 400px;
+    height : 300px;
+    display: inline-block;
+    display: flex;
+    /* display: flexbox; */
+    margin: 3px;
+    
+}
